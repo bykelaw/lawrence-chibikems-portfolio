@@ -1,11 +1,5 @@
 import React from 'react';
 import "./Contact.css";
-import linkedin from "./../../assets/images/linkedin.webp"
-import facebook from "./../../assets/images/facebook.webp"
-import twitter from "./../../assets/images/twitter.webp"
-import github from "./../../assets/images/github.webp"
-import {falgith} from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const Contact = () => {
   return (
     <div className="Contact" id="ct">

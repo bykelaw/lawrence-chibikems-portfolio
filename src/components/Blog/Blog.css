@@ -29,7 +29,7 @@ position: static;
       grid-template-columns: 1;
       grid-template-rows: 1;
       height: 300px;
-      width: 60%;
+      width: 80%;
     }
     .blog--item > img{
        grid-column: 1 / -1;
@@ -38,7 +38,7 @@ position: static;
        width: 100%;
        object-fit: cover;
        object-position: top;
-       min-width: 300px;
+       /* min-width: 300px; */
     }
     .cover {
       grid-column: 1 / -1;

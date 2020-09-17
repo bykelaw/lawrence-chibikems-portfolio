@@ -35,6 +35,10 @@ button {
   font-family: sans-serif;
   transition: all 0.5s;
 }
+.button-container{
+  justify-self: center;
+
+}
 
 button:hover {
   background-color: #04c2c9;
