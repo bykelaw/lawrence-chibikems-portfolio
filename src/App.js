@@ -17,7 +17,7 @@ class App extends Component{
         <Navbar />
         <About />
         <Portfolio />
-        <Blog />
+        {/* <Blog /> */}
         <Contact/>
     </div>
   )

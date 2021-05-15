@@ -25,7 +25,7 @@ const Navbar = () => {
         <a className="home" href="#hm">Home</a>
         <a className="home" href="#ab">About</a>
         <a className="home" href="#pf">Portfolio</a>
-        <a className="home" href="#bg">Blog</a>
+        {/* <a className="home" href="#bg">Blog</a> */}
         <a className="home" href="#ct">Contact </a>
       </div>
     </nav>

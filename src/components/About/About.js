@@ -48,23 +48,23 @@ Let's make something special.</p>
           <div className="progress-bar">
             <div>
               <div>CSS</div>
-            </div><span>80%</span>
+            </div>
           </div>
           <div className="progress-bar">
             <div>
               <div>HTML</div>
-            </div><span>80%</span>
+            </div>
           </div>
           <div className="progress-bar">
             <div>
               <div>JavaScript</div>
-            </div><span>60%</span>
+            </div>
           </div>
           
           <div className="progress-bar">
             <div>
               <div>React</div>
-            </div><span>60%</span>
+            </div>
           </div>
          
       </div>

@@ -35,6 +35,7 @@
   display: flex;
   flex-wrap: wrap;
   padding: 2em ;
+  margin-bottom: 5rem;
 }
 
 .project--item {
